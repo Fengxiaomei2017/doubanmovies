@@ -1,0 +1,138 @@
+{
+  "findMovies": {
+  	"title": "发现好电影",
+  	"contain": [
+      {
+      	"text": "同时入选IMDB250和豆瓣电影250的电影",
+      	"bgColor": "one"
+      },
+      {
+      	"text": "带你进入不正常的世界",
+      	"bgColor": "two"
+      },
+      {
+      	"text": "用电【影】来祭奠逝去的岁月",
+      	"bgColor": "three"
+      },
+      {
+      	"text": "女孩们的故事【电影】",
+      	"bgColor": "fore"
+      },
+      {
+      	"text": "科幻是未来的钥匙——科幻启示录【科幻题材】",
+      	"bgColor": "five"
+      },
+      {
+      	"text": "美国生活面面观",
+      	"bgColor": "six"
+      },
+      {
+      	"text": "2015终极期待",
+      	"bgColor": "seven"
+      },
+      {
+      	"text": "经典韩国电影——收集100部",
+      	"bgColor": "nine"
+      }
+  	]
+  },
+  "findBooks": {
+    "contain": [
+      {
+        "text": "小波看书",
+        "bgColor": "one"
+      },
+      {
+        "text": "树上春树周边",
+        "bgColor": "two"
+      },
+      {
+        "text": "我凭名字认定了你",
+        "bgColor": "three"
+      },
+      {
+        "text": "不可饶恕的女人们",
+        "bgColor": "fore"
+      },
+      {
+        "text": "爱欲书",
+        "bgColor": "five"
+      },
+      {
+        "text": "他们还写侦探小说",
+        "bgColor": "six"
+      },
+      {
+        "text": "人生识字始忧患",
+        "bgColor": "seven"
+      },
+      {
+        "text": "詩歌書店",
+        "bgColor": "nine"
+      }
+    ]
+  },
+  "sortMovies": {
+  	"title": "分类浏览",
+  	"contain": [
+      "经典",
+      "冷门佳片",
+      "豆瓣高分",
+      "动作",
+      "喜剧",
+      "爱情",
+      "悬疑",
+      "恐怖",
+      "科幻",
+      "治愈",
+      "文艺",
+      "成长",
+      "动画",
+      "华语",
+      "欧美",
+      "韩国",
+      "日本"
+  	]
+  },
+  "sortBooks": {
+    "title": "分类浏览",
+    "contain": [
+      "小说",
+      "爱情",
+      "历史",
+      "外国文学",
+      "青春",
+      "励志",
+      "随笔",
+      "传记",
+      "推理",
+      "旅行",
+      "奇幻",
+      "经管"
+    ]
+  },
+  "buyBooksList": {
+    "picturl": [
+      {"pic": "https://img3.doubanio.com/view/freyr_page_photo/raw/public/1796.jpg"},
+      {"pic": "https://img3.doubanio.com/view/freyr_page_photo/raw/public/1761.jpg"},
+      {"pic": "https://img3.doubanio.com/view/freyr_page_photo/raw/public/1721.jpg"},
+      {"pic": "https://img1.doubanio.com/view/freyr_page_photo/raw/public/1689.jpg"},
+      {"pic": "https://img1.doubanio.com/view/freyr_page_photo/raw/public/1679.jpg"},
+      {"pic": "https://img3.doubanio.com/view/freyr_page_photo/raw/public/1611.jpg"},
+      {"pic": "https://img1.doubanio.com/view/freyr_page_photo/raw/public/1567.jpg"},
+      {"pic": "https://img3.doubanio.com/view/freyr_page_photo/raw/public/1542.jpg"},
+      {"pic": "https://img3.doubanio.com/view/freyr_page_photo/raw/public/1472.jpg"},
+      {"pic": "https://img3.doubanio.com/view/freyr_page_photo/raw/public/1384.jpg"},
+      {"pic": "https://img3.doubanio.com/view/freyr_page_photo/raw/public/1324.jpg"},
+      {"pic": "https://img3.doubanio.com/view/freyr_page_photo/raw/public/1213.jpg"},
+      {"pic": "https://img1.doubanio.com/view/freyr_page_photo/raw/public/1048.jpg"},
+      {"pic": "https://img1.doubanio.com/view/freyr_page_photo/raw/public/987.jpg"},
+      {"pic": "https://img3.doubanio.com/view/freyr_page_photo/raw/public/990.jpg"},
+      {"pic": "https://img3.doubanio.com/view/freyr_page_photo/raw/public/813.jpg"},
+      {"pic": "https://img3.doubanio.com/view/freyr_page_photo/raw/public/733.jpg"},
+      {"pic": "https://img3.doubanio.com/view/freyr_page_photo/raw/public/686.jpg"},
+      {"pic": "https://img1.doubanio.com/view/freyr_page_photo/raw/public/649.jpg"},
+      {"pic": "https://img1.doubanio.com/view/freyr_page_photo/raw/public/898.jpg"}
+    ]
+  }
+}
